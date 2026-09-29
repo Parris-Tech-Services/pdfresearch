@@ -112,3 +112,9 @@ For multiple reviewers:
 ## Status
 
 This is the first reviewable implementation. The next validation step is to run it against the 24,580-page merged corpus and compare its measured duplicate count and split boundaries with the independent corpus scan already performed elsewhere. Any mismatch should be treated as useful evidence, not forced to match a preconceived number.
+
+## Engineering standard
+
+Engineering principles: v5.1  
+Assurance tier: 3  
+Canonical repository: https://github.com/Parris-Tech-Services/pdfresearch
